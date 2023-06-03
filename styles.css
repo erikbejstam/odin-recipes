@@ -1,11 +1,13 @@
-h1 {
+* {
     color: rgb(145, 192, 168);
 }
 
-li {
+.recipe-headline {
+    color:rgb(78, 128, 103);
+}
+
+li, 
+p {
     color:rgb(86, 126, 106);
 }
 
-a {
-    color:rgb(145, 192, 168);
-}
